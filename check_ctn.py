@@ -17,12 +17,13 @@ from selenium.webdriver.chrome.options import Options
 URL_CTN = "https://tunisiaferries.ctn.com.tn/#/book"
 
 DATE_CIBLE = "28/08/2026"
-JOUR_CIBLE = "08"
+JOUR_CIBLE = "28"
 MOIS_EN = "Aug"
 ANNEE_CIBLE = "2026"
 
 VILLE_ARRIVEE = "GENES"
 PAYS_DEP = "TUN"
+
 
 NOM_CABINE_CIBLE_1 = "Cabine avec Sanitaires Privés- 4 lits- avec Hublot"
 NOM_CABINE_CIBLE_2 = "Cabine avec Sanitaires Privé-4 lits - Sans Hublot"
